@@ -1,0 +1,10 @@
+# Alles ignorieren
+*
+
+# Nur explizit erlaubte Dateien tracken
+!.gitignore
+!README.md
+!workflows/
+!workflows/**
+!backups/
+!backups/**
